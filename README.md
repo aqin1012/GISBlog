@@ -1,2 +1,2 @@
-# ViteBlog
-Vite Blog | Java &amp; GIS
+# GISBlog
+Blog | Java &amp; GIS
